@@ -10,7 +10,7 @@ locals = {
     'PDF': ['.pdf'],
     'CSV': ['.csv'],
     'Photoshop': ['.psd'],
-    'CorelDRAW': ['.cdr'],
+    'CorelDRAW': ['.cdr'],                                        
     'XML': ['.xml'],
     'SQL Script': ['.sql'],
     'Text and Word Documents': ['.txt', '.docx', '.doc'],
